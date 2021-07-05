@@ -37,3 +37,20 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+.form-reserve-header{
+    padding: 15px;
+    height: 60px;
+    background-color: #FDC02F;
+}
+
+.marginl{
+    margin-left: 25px;
+}
+
+.reserve-btn{
+    margin-left: 250px;
+}
+
+.btn-warning{
+    width: 250px;
+}
