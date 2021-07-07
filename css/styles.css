@@ -71,4 +71,12 @@ body{
       top: 0;
       left: 0;
       min-height: 300px;
-  }
+    }
+
+    .reseve-footer{
+        margin-left: 250px;
+    }
+
+    .ls{
+        font-weight: strong;
+    }
